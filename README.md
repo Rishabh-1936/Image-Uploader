@@ -6,6 +6,3 @@ Steps to run the application
 2. node app.js
 3. Go to localhost:3000/
 
-Demo
-
-[![](https://youtu.be/aBsXJOy959I)](https://youtu.be/aBsXJOy959I)
