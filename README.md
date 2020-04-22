@@ -7,4 +7,5 @@ Steps to run the application
 3. Go to localhost:3000/
 
 Demo
-[![Watch the video](https://youtu.be/aBsXJOy959I)
+
+[![](https://youtu.be/aBsXJOy959I)](https://youtu.be/aBsXJOy959I)
